@@ -3,7 +3,7 @@
 ## I'm a Developer, Physicist, and Designer!!
 
 ## 💫About Me :
-📖 I’m an open book
+📖 I’m an open book\n
 👨🏻‍🔬 A scientist and curious by nature
 🥅 2022 Goals: Start a career in Computer Science
 🦸‍♂️ I love science fiction and technology
