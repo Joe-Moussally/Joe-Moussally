@@ -3,12 +3,12 @@
 ## I'm a Developer, Physicist, and Designer!!
 
 ## 💫About Me :
-📖 I’m an open book
-👨🏻‍🔬 A scientist and curious by nature
-🥅 2022 Goals: Start a career in Computer Science
-🦸‍♂️ I love science fiction and technology
-🎨 I love to draw and make ART
-🎸 I am a Guitarist
+📖 I’m an open book<br />
+👨🏻‍🔬 A scientist and curious by nature<br />
+🥅 2022 Goals: Start a career in Computer Science<br />
+🦸‍♂️ I love science fiction and technology<br />
+🎨 I love to draw and make ART<br />
+🎸 I am a Guitarist<br />
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maythealmightysmiterbewithyou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joe-moussally-284302206) 
