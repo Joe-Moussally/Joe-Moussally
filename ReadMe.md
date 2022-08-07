@@ -21,9 +21,13 @@
 |----------|-----------|-----------|
 |<img src="./assets/pictures/venom1.jpg"/>|<img src="./assets/pictures/black_panther.jpg"/>|<img src="./assets/pictures/joker.jpg"/>|
 
-| Timothee Chamalet | Marshmallow | Venom | Portrait
+| Marshmallow | Venom | Portrait
 |----------|-----------|-----------|-----------|
-|<img src="./assets/pictures/tim.jpg"/>|<img src="./assets/pictures/marshmallow.jpg"/>|<img src="./assets/pictures/venom2.jpg"/>|<img src="./assets/pictures/woman2.jpg"/>|
+|<img src="./assets/pictures/marshmallow.jpg"/>|<img src="./assets/pictures/venom2.jpg"/>|<img src="./assets/pictures/woman2.jpg"/>|
+
+| Timothee Chamalet |
+|----------|
+|<img src="./assets/pictures/tim.jpg"/>|
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Joe-Moussally&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
