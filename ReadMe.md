@@ -22,7 +22,7 @@
 |<img src="./assets/pictures/venom1.jpg"/>|<img src="./assets/pictures/black_panther.jpg"/>|<img src="./assets/pictures/joker.jpg"/>|
 
 | Marshmallow | Venom | Portrait
-|----------|-----------|-----------|-----------|
+|----------|-----------|-----------|
 |<img src="./assets/pictures/marshmallow.jpg"/>|<img src="./assets/pictures/venom2.jpg"/>|<img src="./assets/pictures/woman2.jpg"/>|
 
 | Timothee Chamalet |
