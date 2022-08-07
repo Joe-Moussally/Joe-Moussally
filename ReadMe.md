@@ -15,7 +15,7 @@
 # ✏ My Art:
 | Batman | Portrait | Bugs Bunny |
 |----------|-----------|-----------|
-|<img src="./assets/pictures/batman.jpg"/>|<img src="./assets/pictures/woman1.jpg"/>|<img src="./assets/pictures/bugs_bunny.jpg"/>|
+|<img src="./assets/pictures/batman.jpg" style="width:500px;"/>|<img src="./assets/pictures/woman1.jpg"/>|<img src="./assets/pictures/bugs_bunny.jpg"/>|
 
 | Venom | Black Panther | Joker |
 |----------|-----------|-----------|
